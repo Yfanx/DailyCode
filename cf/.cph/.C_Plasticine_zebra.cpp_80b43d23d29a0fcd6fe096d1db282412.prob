@@ -1,0 +1,1 @@
+{"name":"Local: C_Plasticine_zebra","url":"d:\\Code\\DailyProblem\\cf\\C_Plasticine_zebra.cpp","tests":[{"id":1715949538454,"input":"bwwwbwwbw","output":"5"},{"id":1715949557953,"input":"bwwbwwb","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\DailyProblem\\cf\\C_Plasticine_zebra.cpp","group":"local","local":true}
