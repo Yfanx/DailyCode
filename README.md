@@ -9,4 +9,4 @@
 
 ### niuke
 
--[[NOIP2017]图书管理员](https://ac.nowcoder.com/acm/problem/16422)
+- [[NOIP2017]图书管理员](https://ac.nowcoder.com/acm/problem/16422)
