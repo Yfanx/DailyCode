@@ -1,0 +1,1 @@
+{"name":"Luogu - P5714","url":"https://www.luogu.com.cn/problem/P5714","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"70 1.72","output":"Normal","id":1739439392518},{"id":1739439392591,"input":"100 1.68","output":"35.4308\nOverweight"}],"group":"luogu","srcPath":"d:\\Code\\DailyProblem\\luogu\\Luogu_P_5714.cpp"}

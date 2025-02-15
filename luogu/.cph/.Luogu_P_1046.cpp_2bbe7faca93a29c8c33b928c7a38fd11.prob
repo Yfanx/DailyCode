@@ -1,0 +1,1 @@
+{"name":"Luogu - P1046","url":"https://www.luogu.com.cn/problem/P1046","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1739599506707,"input":"100 200 150 140 129 134 167 198 200 111\n110\n","output":"5"}],"group":"luogu","srcPath":"d:\\Code\\DailyProblem\\luogu\\Luogu_P_1046.cpp"}

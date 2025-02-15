@@ -1,0 +1,1 @@
+{"name":"Luogu - P5715","url":"https://www.luogu.com.cn/problem/P5715","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"1 14 5","output":"1 5 14","id":1739461823599},{"id":1739461823613,"input":"2 2 2","output":"2 2 2"}],"group":"luogu","srcPath":"d:\\Code\\DailyProblem\\luogu\\Luogu_P_5715.cpp"}
