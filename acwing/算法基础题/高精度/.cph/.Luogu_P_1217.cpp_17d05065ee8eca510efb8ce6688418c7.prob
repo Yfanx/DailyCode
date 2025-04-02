@@ -1,0 +1,1 @@
+{"name":"Luogu - P1217","url":"https://www.luogu.com.cn/problem/P1217","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1740748118421,"input":"5 500\n","output":"5\n7\n11\n101\n131\n151\n181\n191\n313\n353\n373\n383\n"}],"group":"luogu","srcPath":"d:\\Code\\DailyProblem\\acwing\\算法基础题\\高精度\\Luogu_P_1217.cpp"}
