@@ -1,0 +1,1 @@
+{"name":"Local: n皇后问题解2","url":"d:\\Code\\DailyProblem\\acwing\\算法基础题\\DFS\\n皇后问题解2.cpp","tests":[{"id":1744204839923,"input":"4","output":".Q..\n...Q\nQ...\n..Q.\n\n..Q.\nQ...\n...Q\n.Q..\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\DailyProblem\\acwing\\算法基础题\\DFS\\n皇后问题解2.cpp","group":"local","local":true}
